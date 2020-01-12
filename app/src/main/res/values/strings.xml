@@ -1,0 +1,19 @@
+<resources>
+    <string name="age">Birth Date</string>
+    <string name="app_name">EPF Eligibility Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="accBalance">Account Balance</string>
+    <string-array name="age_groups">
+        <item>Less than 17</item>
+        <item>17 to 25</item>
+        <item>26 to 30</item>
+        <item>31 to 40</item>
+        <item>41 to 55</item>
+        <item>More than 55</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pick_time">Pick a Date</string>
+</resources>
